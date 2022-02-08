@@ -1,0 +1,14 @@
+{
+  "name": "agora-cdk",
+  "version": "1.0.0",
+  "description": "This is the Lambda directory for the backend project",
+  "main": "agoraGetToken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mim. Armand",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
