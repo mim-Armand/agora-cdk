@@ -21,6 +21,7 @@
  * `aws sts get-caller-identity --profile fff` to get the account number of the currently selected profile
 
 ## To deploy:
+- Make sure you add 
 - `cd CDK/lambda` and then run `npm i` there
 - Run `cdk bootstrap --profile fff` // only run once, for the first time.
 - Run `cdk diff --profile fff` // to see the recent changes before deploying them.
